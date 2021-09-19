@@ -1,0 +1,44 @@
+---
+title: "Walmart: Data-Driven Decision making"
+author: "Remco de Boer"
+output: html_document
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5Iij3zQp_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+(Walmart, 2015)
+
+<h1>
+Why was Data-Driven decision-making useful in this business case?
+</h1>
+
+<p1>
+In Walmart’s case, Data helps Walmart to make better-informed decisions based on data. The data Walmart collects helps them to run its retail stores more effectively and efficiently. They for example use Data to predict sales of their stores based on 200 different external and internal data streams. By using these predictive algorithms they are able to reduce costs for the company. 
+Walmart is also using Data to make sure that customers have the optimal shopping experience while at Walmart. The data will ensure that the customers will be satisfied after their visit to Walmart. Satisfied customers will turn into returning customers which will increase the net sales and profit of Walmart.
+</p1>
+
+<h2>
+How did the organization apply Data-Driven decision-making?
+</h2>
+
+<p2>
+Walmart has a team of data analysts in the so-called “Data Cafe”. In this Data Cafe, hundreds of data sources are combined from both inside and outside of the company. An example of their internal data consists out of 200 billion rows of transactional data. External data sources include things like the weather, social media data, gas prices, economic data, and local events. They use all this data to make better-informed business decisions. For example, they are able to predict how many customers will come to a certain store by using a combination of internal and external data. They are also able to predict how much sales a store will make in its first year. Based on these predictions they are able to stock the stores more efficiëntly and have the right amount of employees that are required to run the store as effectively and efficiently as possible. The Data gathered in the Data Cafe can be modeled to answer any business-related question in minutes.
+
+Walmart also found other innovative ways to improve their customer journey with their internal data. Walmart is using facial recognition software to measure the emotions of customers. For example, if a customer is looking stressed or agitated when they are in line for check-out, a notification will be sent to one of the managers of the store to open more checkouts(CPA Canada, n.d.).
+</p2>
+
+<h3>
+What can the organization do with Data-Driven decision-making that they couldn’t do before?
+</h3>
+
+<p3>
+Something that Walmart could do, what they aren’t doing yet is further optimizing their customer journey with internal data collected by beacons and sensors. Walmart could add sensors to their physical stores to determine which paths most customers take and make a heatmap of where the most customers are. They could use this data to optimize their store layout to improve the customer experience or use it to get more sales. For example, if Walmart notices that a lot of customers first go to the bread aisle then to the dairy aisle, and then to check-out they could put both aisles closer to each other so the customer doesn’t have to spend too much time in the store. What Walmart could also do with that information is change the layout to increase their cross-selling. They could place lesser-visited aisles next to aisles that are visited a lot. This would make sure more customers would visit the lesser-visited aisle.
+</p3>
+
+<h4>
+Bibliography
+</h4>
+
+<p4>
+- Walmart. (2015, June 9). Power of Big Data! YouTube. https://www.youtube.com/watch?v=m5Iij3zQp_w <br>
+-CPA Canada. (n.d.). From Data to Decisions. CPAcanada.Com. Retrieved September 19, 2021, from https://www.cpacanada.ca/en/business-and-accounting-resources/management-accounting/organizational-performance-measurement/publications/management-accounting-guidelines-mags/performance-management-measurement/from-data-to-decisions-overview/from-data-to-decisions-case-studies
+</p4>
